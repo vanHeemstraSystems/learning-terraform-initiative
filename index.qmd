@@ -1,0 +1,29 @@
+---
+title: "Learning Terraform - Initiative"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+# Master Terraform
+
+We base our Initiative: Master Terraform on Planning a [Minimum Viable Nothing (MVN)](https://github.com/vanHeemstraSystems/minimum-viable-nothing).
+
+At the very beginning, you should have identified a need as to why the product (i.e., good or service) should exist. This could be an organizational need or a customer need that addresses a current gap.
+
+## 1. Identify and understand the **Business Needs**.
+
+### a) Determine the **long-term goal** of the product (i.e., good or service) and write it down.
+
+The long-term goal of mastering terraform is managing and provisioning of infrastructure through code instead of through manual processes.
+
+### b) Answer the question "**Why are we doing this project?**"
+
+The reason for mastering terraform is to obtain the knowledge and train the practise of managing and provisioning of infrastructure through code instead of through manual processes.
+
+### c) Identify the **success criteria** that will indicate whether or not the product (i.e., good or service) is successful.
+
+[If you master something, you learn how to do it properly or you succeed in understanding it completely.](https://www.collinsdictionary.com/dictionary/english/master-a-subject#:~:text=If%20you%20master%20something%2C%20you,succeed%20in%20understanding%20it%20completely.) 
+
+Hence, mastering terraform has been successful if we either ```learn how to do it properly``` or we ```succeed in understanding it completely```.
